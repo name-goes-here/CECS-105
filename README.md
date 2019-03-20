@@ -2,3 +2,7 @@
 Workshop for CECS 105
 
 edit_goes_here
+
+if(!sorted){
+	continue;
+}
